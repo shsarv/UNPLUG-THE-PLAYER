@@ -64,10 +64,3 @@ This project can be transferred as a major project by including more features li
 
 **Team Members :-**
 
-| **S.NO** | **Name** | **University Roll no.** | **GitHub id** | **Section** |
-| --- | --- | --- | --- | --- |
-| 1 | Sarvesh Kumar Sharma | 181500625 | [https://github.com/shsarv](https://github.com/shsarv) | A |
-| 2 | Satyam Kumar Jha | 181500627 | [https://github.com/satyamjha1710](https://github.com/satyamjha1710) | A |
-| 3 | Sachi Tripathi | 181500598 | [https://github.com/sachi42](https://github.com/sachi42) | A |
-| 4 | Jeevesh Gangwar | 181500298 | [https://github.com/jeeveshgangw](https://github.com/jeeveshgangw) | B |
-| 5 | Ashutosh Tripathi | 181500152 | [https://github.com/ashu-tripathi](https://github.com/ashu-tripathi) | J |
