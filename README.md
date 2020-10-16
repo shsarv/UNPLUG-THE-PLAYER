@@ -3,8 +3,13 @@
 _ongoing Project_
 
    [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) 
-   ![](https://img.shields.io/tokei/lines/github/shsarv/UNPLUG-THE-PLAYER?color=orange&logoColor=blue&style=for-the-badge)
    ![](https://img.shields.io/github/license/shsarv/UNPLUG-THE-PLAYER?style=for-the-badge)
+   ![](https://img.shields.io/github/languages/top/shsarv/UNPLUG-THE-PLAYER?color=blueviolet&style=for-the-badge)
+   
+   <br>
+   
+   ![](https://img.shields.io/github/repo-size/shsarv/UNPLUG-THE-PLAYER?color=e02c73&style=flat-square)
+   ![](https://img.shields.io/tokei/lines/github/shsarv/UNPLUG-THE-PLAYER?color=orange&logoColor=blue&style=for-the-badge)
 
 ### Table of Content:
 
