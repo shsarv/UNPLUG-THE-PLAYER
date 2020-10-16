@@ -102,4 +102,4 @@ This project can be transferred as a major project by including more features li
 
 ### License
 
-
+**MIT License** - Copyright (c) 2020 Sarvesh Kumar Sharma
