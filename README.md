@@ -9,7 +9,7 @@ _ongoing Project_
    <br>
    
    ![](https://img.shields.io/github/repo-size/shsarv/UNPLUG-THE-PLAYER?color=e02c73&style=flat-square)
-   ![](https://img.shields.io/tokei/lines/github/shsarv/UNPLUG-THE-PLAYER?color=orange&logoColor=blue&style=for-the-badge)
+   ![](https://img.shields.io/tokei/lines/github/shsarv/UNPLUG-THE-PLAYER?color=orange&logoColor=blue&style=flat-square)
 
 ### Table of Content:
 
