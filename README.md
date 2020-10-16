@@ -2,11 +2,11 @@
 
 _ongoing Project_
 
-   [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) 
-   ![](https://img.shields.io/github/license/shsarv/UNPLUG-THE-PLAYER?style=for-the-badge)
-   ![](https://img.shields.io/badge/build-flask1.1.1-blue?style=for-the-badge&logo=flask&logoColor=white)
-   ![](https://img.shields.io/github/issues-pr-closed/shsarv/UNPLUG-THE-PLAYER?style=for-the-badge)
-   ![](https://img.shields.io/github/issues-pr/shsarv/UNPLUG-THE-PLAYER?style=for-the-badge)
+   ![](https://img.shields.io/badge/python-3.6|3.7-FFFC00?style=flat-circle&logo=python&logoColor=309698)
+   ![](https://img.shields.io/github/license/shsarv/UNPLUG-THE-PLAYER?style=flat-circle)
+   ![](https://img.shields.io/badge/build-flask1.1.1-blue?style=flat-circle&logo=flask&logoColor=white)
+   ![](https://img.shields.io/github/issues-pr-closed/shsarv/UNPLUG-THE-PLAYER?style=flat-circle)
+   ![](https://img.shields.io/github/issues-pr/shsarv/UNPLUG-THE-PLAYER?style=flat-circle)
    
    
    <br>
