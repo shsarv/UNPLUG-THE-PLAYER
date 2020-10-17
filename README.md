@@ -7,6 +7,7 @@ _ongoing Project_
    ![](https://img.shields.io/badge/build-flask1.1.1-blue?style=flat-circle&logo=flask&logoColor=white)
    ![](https://img.shields.io/github/issues-pr-closed/shsarv/UNPLUG-THE-PLAYER?style=flat-circle)
    ![](https://img.shields.io/github/issues-pr/shsarv/UNPLUG-THE-PLAYER?style=flat-circle)
+   ![](https://img.shields.io/github/issues-raw/shsarv/UNPLUG-THE-PLAYER?color=66ff66)
    
    
    <br>
