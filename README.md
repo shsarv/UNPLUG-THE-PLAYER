@@ -41,7 +41,7 @@ In the Country like India, where people are highly interested in cricket. Only f
 
 ### Objective
 
-The main objective of the project is to create a web app game which allows to explore our knowledge in football. It will be like quiz-based game where game player will be awarded different points on his correct answer at different stage. The pre-objective is to gather the complete data and pre-process the data on which our web app will run.
+The main objective of the project is to create a web application game which allows to explore our knowledge in football. It will be like quiz-based game where game player will be awarded different points on his correct answer at different stage. The pre-objective is to gather the complete data and pre-process the data on which our web app will run.
 
 ### Methodology
 
@@ -49,7 +49,7 @@ The main objective of the project is to create a web app game which allows to ex
 - Developing function using python and JavaScript.
 - Creating web pages.
 - Connecting function to web page.
-- Deploying the web app using flask.
+- Deploying the web app using flask API.
 
 ### Technologies to be Used
 
@@ -77,11 +77,9 @@ The main objective of the project is to create a web app game which allows to ex
 
 **Platform **
 
-PyCharm
-
-
 <code><img height="100" src="https://raw.githubusercontent.com/shsarv/shsarv/master/re/pycharm.jpg" title="Pycharm"></code>
 
+PyCharm
 
 ### Scope 
 
@@ -90,12 +88,15 @@ This project can be transferred as a major project by including more features li
 
 ### Installation
 
+_enable_
 
 ### Run
 
+_enable_
 
 ### BUG
 
+_enable_
 
 ### Contributors
 
@@ -112,4 +113,4 @@ This project can be transferred as a major project by including more features li
 
 ### License
 
-**MIT License** - Copyright (c) 2020 Sarvesh Kumar Sharma
+**MIT License**
