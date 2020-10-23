@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FOOT BALL GAME</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='game.css') }}">
+      <style>
+          #title{
+              color: white;
+              font-size: 55px;
+              font-weight: 900;
+              font-family: Dialog;
+              margin-bottom: 50px;
+          }
+          h2{
+              color:orange;
+          }
+          h3{
+              color: white;
+          }
+          #white{
+              color: white;
+          }
+          body {
+              text-align: center;
+              font-family: 'Roboto', sans-serif;
+              font-weight: 300;
+              background-image: url('/static/wallpaper1.jpg');
+              background-size: cover;
+          }
+          div.mi{
+                background-color: rgba(0, 0, 0, 0.8);
+                padding: 2% 1% 0px 1%;
+        }
+          footer {
+                background-color: rgba(0, 0, 0, 0.5);
+                text-align: center;
+                color: white;
+                padding-top: 5px ;
+                padding-bottom: 5px;
+        }
+          p{
+              color: white;
+          }
+      </style>
+  </head>
+  <body>
+  <div class="mi">
+    <h1 id="title">UNPLUG THE PLAYERS</h1>
+    <div id="images">
+      <div class="card" id="card{{ dict['ids'][0] }}"><img src="static/images/{{ dict['pass']['fullName'][dict['ids'][0]] }}.jpg"><p>{{ dict['pass']['Name'][dict['ids'][0]] }}</p></div>
+      <div class="card" id="card{{ dict['ids'][1] }}"><img src="static/images/{{ dict['pass']['fullName'][dict['ids'][1]] }}.jpg"><p>{{ dict['pass']['Name'][dict['ids'][1]] }}</p></div>
+      <div class="card" id="card{{ dict['ids'][2] }}"><img src="static/images/{{ dict['pass']['fullName'][dict['ids'][2]] }}.jpg"><p>{{ dict['pass']['Name'][dict['ids'][2]] }}</p></div>
+      <div class="card" id="card{{ dict['ids'][3] }}"><img src="static/images/{{ dict['pass']['fullName'][dict['ids'][3]] }}.jpg"><p>{{ dict['pass']['Name'][dict['ids'][3]] }}</p></div>
+      <div class="card" id="card{{ dict['ids'][4] }}"><img src="static/images/{{ dict['pass']['fullName'][dict['ids'][4]] }}.jpg"><p>{{ dict['pass']['Name'][dict['ids'][4]] }}</p></div>
+      <div class="card" id="card{{ dict['ids'][5] }}"><img src="static/images/{{ dict['pass']['fullName'][dict['ids'][5]] }}.jpg"><p>{{ dict['pass']['Name'][dict['ids'][5]] }}</p></div>
+    </div>
+    <div id='zero_hint'>
+      <br><br><h2>SHALL WE START?</h2><br><br><br>
+      <button type="button" id="next_hint0" class='hintbtn'>GO TO FIRST HINT</button>
+    </div>
+    <div id='first_hint'>
+      <h2>NATIONALITY OF THE PLAYER</h2>
+      <img src="static/country_images/{{ dict['pass']['fullName'][dict['main']] }}.jpg" height="60px" width="60px"><h3>{{ dict['pass']['Nationality'][dict['main']] }}</h3>
+      <button type="button" id="next_hint1" class='hintbtn'>NEXT HINT</button>
+    </div>
+    <div id='second_hint'>
+      <h2>VALUE OF THE PLAYER</h2>
+      <h1 id="white">{{ dict['pass']['Value'][dict['main']] }}</h1><br><br><br>
+      <button type="button" id="next_hint2" class='hintbtn'>NEXT HINT</button>
+    </div>
+    <div id='third_hint'>
+      <h2>AGE GROUP OF THE PLAYER</h2>
+      <h1 id="white">{{ dict['pass']['age_group'][dict['main']] }}</h1><br><br><br>
+      <button type="button" id="next_hint3" class='hintbtn'>NEXT HINT</button>
+    </div>
+    <div id='fourth_hint'>
+      <h2>POTENTIAL VALUE (out of 100)</h2>
+      <h1 id="white">{{ dict['pass']['Potential'][dict['main']] }}</h1><br><br><br>
+      <button type="button" id="next_hint4" class='hintbtn'>LAST HINT</button>
+    </div>
+    <div id='fifth_hint'>
+      <h2>CLUB OF THE PLAYER</h2>
+      <img src="static/clubimages/{{ dict['pass']['fullName'][dict['main']] }}.jpg" height="60px" width="60px"><h3>{{ dict['pass']['Club'][dict['main']] }}</h3>
+      <button type="button" id="next_hint5" class='hintbtn'>GO BACK</button>
+    </div>
+      <div>
+	<script type="text/javascript">
+        var lst = {{ dict['actual'] }}
+    </script>
+    <script src="{{ url_for('static', filename='game.js') }}"></script>
+      </div>
+      <br><br><br><br>
+
+<footer>
+    <p>made in &#10084;&#65039; with <b style="color: orange">IN</b><b style="color: white">D</b><b style="color: green">IA</b></p>
+    <p>copyright &copy; to Creator<br> <br>Created by <b style="color: aquamarine">4S</b><br><br>
+  <a href="mailto:shsarv@gmail.com">CONTACT US HERE</a></p>
+</footer>
+      </div>
+  </body>
+</html>
