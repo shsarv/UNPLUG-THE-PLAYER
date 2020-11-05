@@ -8,6 +8,7 @@ _ongoing Project_
    ![](https://img.shields.io/github/issues-pr-closed/shsarv/UNPLUG-THE-PLAYER?style=flat-circle)
    ![](https://img.shields.io/github/issues-pr/shsarv/UNPLUG-THE-PLAYER?style=flat-circle)
    ![](https://img.shields.io/github/issues-raw/shsarv/UNPLUG-THE-PLAYER?color=66ff66)
+   [![HitCount](http://hits.dwyl.com/shsarv/ UNPLUG-THE-PLAYER .svg)](http://hits.dwyl.com/shsarv/ UNPLUG-THE-PLAYER )
    
    
    <br>
