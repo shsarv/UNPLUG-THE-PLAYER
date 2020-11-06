@@ -37,16 +37,16 @@ The main objective of the project is to create a web application game which allo
 ### Technologies to be Used
 
 
-<code><img height="90" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" title="python"></code>
-<code><img height="90" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" title="javascript"></code>
-<code><img height="90" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" title="html5"></code>
-<code><img height="90" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" title="css"></code>
-<code><img height="90" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" title="flask"></code>
+<code><img height="50" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" title="python"></code>
+<code><img height="50" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" title="javascript"></code>
+<code><img height="50" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" title="html5"></code>
+<code><img height="50" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" title="css"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" title="flask"></code>
 
 
 **Platform **
 
-<code><img height="100" src="https://raw.githubusercontent.com/shsarv/shsarv/master/re/pycharm.jpg" title="Pycharm"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/shsarv/shsarv/master/re/pycharm.jpg" title="Pycharm"></code>
 
 PyCharm
 
