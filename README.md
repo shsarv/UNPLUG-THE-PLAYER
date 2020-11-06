@@ -44,7 +44,7 @@ The main objective of the project is to create a web application game which allo
 <code><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" title="flask"></code>
 
 
-**Platform **
+**Platform**
 
 <code><img height="60" src="https://raw.githubusercontent.com/shsarv/shsarv/master/re/pycharm.jpg" title="Pycharm"></code>
 
