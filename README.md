@@ -17,24 +17,6 @@ _ongoing Project_
    ![](https://img.shields.io/tokei/lines/github/shsarv/UNPLUG-THE-PLAYER?color=orange&logoColor=blue&style=flat-square)
     ![](https://img.shields.io/github/languages/top/shsarv/UNPLUG-THE-PLAYER?color=blueviolet&style=flat-square)
 
-### Table of Content:
-
-
-* [Overview]()
-* [Objective]()
-* [Motivation]()
-* [Technical Aspects]()
-* [Technologies Used]()
-* [Demo]()
-* [Future Scope]()
-* [Installation]()
-* [Run]()
-* [BUG / Feature Request]()
-* [Contributors]()
-* [License]()
-
-
-
 
 ### Overview
 
@@ -61,20 +43,6 @@ The main objective of the project is to create a web application game which allo
 <code><img height="90" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" title="css"></code>
 <code><img height="90" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" title="flask"></code>
 
-<!--1. HTML
-2. CSS
-3. JavaScript
-4. Flask
-5. Python -->
-
-**Python libraries to be used :-**
-
-
-<code><img height="80" src="https://www.fullstackpython.com/img/logos/scipy.png" title="Scipy"></code>
-<code><img height="80" src="https://camo.githubusercontent.com/5cb734f6fc37f645dc900e35559c60d91cc6b550/68747470733a2f2f6465762e70616e6461732e696f2f7374617469632f696d672f70616e6461732e737667" title="Pandas"></code>
-<code><img height="80" src="https://raw.githubusercontent.com/shsarv/shsarv/master/re/numpy.png" title="Numpy"></code>
-
-
 
 **Platform **
 
@@ -82,14 +50,11 @@ The main objective of the project is to create a web application game which allo
 
 PyCharm
 
-### Scope 
 
-This project can be transferred as a major project by including more features like general knowledge, field description , type of events, teams and many more and finally giving a complete virtual feel of football to the player which allows game player to play games in different domains and other sports.
+### Codebase <img src="https://www.flaticon.com/svg/static/icons/svg/3565/3565585.svg" width="24px">
 
+The entire code has been developed using Python programming language and is hosted on Heroku. The analysis and model is developed using SkcitLearn library. The website is developed using Flask. 
 
-### Installation
-
-_enable_
 
 ### How to run the project 🚀:
 
@@ -103,9 +68,17 @@ _enable_
   7. Now, execute the following command: `flask run` and it will point to the `localhost` server with the port `5000`.
   8. Enter the `IP Address: http://localhost:5000` on a web browser and use the application.
 
-### BUG
+### Dependencies <img src="https://www.flaticon.com/svg/static/icons/svg/2621/2621122.svg" width="24px">
 
-_enable_
+The following dependencies can be found in [requirements.txt](https://github.com/shsarv/UNPLUG-THE_PLAYER/blob/main/requirements.txt):
+
+  1. [scikit-learn](https://scikit-learn.org/)
+  2. [Flask](https://palletsprojects.com/p/flask/)
+  3. [pandas](https://pandas.pydata.org/)
+  4. [numpy](http://www.numpy.org/)
+  5. [scikit-learn](https://scikit-learn.org/stable/index.html)
+  6. [gunicorn](https://gunicorn.org/)
+  7. [scipy](http://www.numpy.org/)
 
 ### Contributors
 
@@ -123,3 +96,8 @@ _enable_
 ### License
 
 **MIT License**
+
+### Scope 
+
+This project can be transferred as a major project by including more features like general knowledge, field description , type of events, teams and many more and finally giving a complete virtual feel of football to the player which allows game player to play games in different domains and other sports.
+
