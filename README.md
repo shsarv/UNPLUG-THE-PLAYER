@@ -8,7 +8,7 @@ _ongoing Project_
    ![](https://img.shields.io/github/issues-pr-closed/shsarv/UNPLUG-THE-PLAYER?style=flat-circle)
    ![](https://img.shields.io/github/issues-pr/shsarv/UNPLUG-THE-PLAYER?style=flat-circle)
    ![](https://img.shields.io/github/issues-raw/shsarv/UNPLUG-THE-PLAYER?color=66ff66)
-   [![HitCount](http://hits.dwyl.com/shsarv/UNPLUG-THE-PLAYER.svg)](http://hits.dwyl.com/shsarv/UNPLUG-THE-PLAYER)
+   [![](http://hits.dwyl.com/shsarv/UNPLUG-THE-PLAYER.svg)](http://hits.dwyl.com/shsarv/UNPLUG-THE-PLAYER)
    
    
    <br>
@@ -18,9 +18,8 @@ _ongoing Project_
     ![](https://img.shields.io/github/languages/top/shsarv/UNPLUG-THE-PLAYER?color=blueviolet&style=flat-square)
 
 
-### Overview <img src="https://www.flaticon.com/svg/static/icons/svg/2664/2664064.svg" width="24px">
-
-In the Country like India, where people are highly interested in cricket. Only few of them interested in other sport like football. Indian people share a lot more knowledge about cricket players but are they equally know about football players ? taking this in mind in this project, the objective is to create a web app functioning as a prediction game in which the gamer has to pick the correct football player based on his different aspects which will be provided during game and they can explore their knowledge in football as well.
+<!--### Overview <img src="https://www.flaticon.com/svg/static/icons/svg/2664/2664064.svg" width="24px">
+In the Country like India, where people are highly interested in cricket. Only few of them interested in other sport like football. Indian people share a lot more knowledge about cricket players but are they equally know about football players ? taking this in mind in this project, the objective is to create a web app functioning as a prediction game in which the gamer has to pick the correct football player based on his different aspects which will be provided during game and they can explore their knowledge in football as well. -->
 
 ### Objective <img src="https://www.flaticon.com/svg/static/icons/svg/827/827816.svg" width="24px">
 
@@ -43,12 +42,6 @@ The main objective of the project is to create a web application game which allo
 <code><img height="50" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" title="css"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" title="flask"></code>
 
-
-**Platform**
-
-<code><img height="60" src="https://raw.githubusercontent.com/shsarv/shsarv/master/re/pycharm.jpg" title="Pycharm"></code>
-
-PyCharm
 
 
 ### Codebase <img src="https://www.flaticon.com/svg/static/icons/svg/3565/3565585.svg" width="24px">
@@ -79,6 +72,24 @@ The following dependencies can be found in [requirements.txt](https://github.com
   5. [scikit-learn](https://scikit-learn.org/stable/index.html)
   6. [gunicorn](https://gunicorn.org/)
   7. [scipy](http://www.numpy.org/)
+  
+  
+### System architecture: How does this work? 🔧
+
+For better understanding, flow of the project is as follows:
+
+    Determine the data set Understanding
+    Load the data
+    Analyse the data
+    Data pre-processing
+    Define the function to Pairwise distances between observations in n-dimensional space.
+    selecting 6 similar elements from the data randomly.
+    choose 5 attribute of selected element as a hint for end user
+    
+if user unable to choose the right player, window gives alert.
+
+    The main.py compares the dataset every time it executes. 
+  
 
 ### Contributors <img src="https://www.flaticon.com/svg/static/icons/svg/1534/1534938.svg" width="24px">
 
