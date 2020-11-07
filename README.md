@@ -28,10 +28,10 @@ The main objective of the project is to create a web application game which allo
 ### Methodology <img src="https://www.flaticon.com/svg/static/icons/svg/2643/2643513.svg" width="24px">
 
 - Data Collection.
+- Data Preprocessing
 - Developing function using python and JavaScript.
-- Creating web pages.
-- Connecting function to web page.
-- Deploying the web app using flask API.
+- Creating web pages & connecting function to web page.
+- Deployment.
 
 ### Technologies to be Used
 
