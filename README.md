@@ -63,7 +63,7 @@ The entire code has been developed using Python programming language and is host
 
 ### Dependencies <img src="https://www.flaticon.com/svg/static/icons/svg/2621/2621122.svg" width="24px">
 
-The following dependencies can be found in [requirements.txt](https://github.com/shsarv/UNPLUG-THE_PLAYER/blob/main/requirements.txt):
+The following dependencies can be found in [requirements.txt](https://github.com/shsarv/UNPLUG-THE-PLAYER/blob/main/requirements.txt):
 
   1. [scikit-learn](https://scikit-learn.org/)
   2. [Flask](https://palletsprojects.com/p/flask/)
