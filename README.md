@@ -88,7 +88,7 @@ For better understanding, flow of the project is as follows:
     
 if user unable to choose the right player, window gives alert.
 
-    The main.py compares the dataset every time it executes. 
+    The app.py compares the dataset every time it executes. 
   
 
 ### Contributors <img src="https://www.flaticon.com/svg/static/icons/svg/1534/1534938.svg" width="24px">
