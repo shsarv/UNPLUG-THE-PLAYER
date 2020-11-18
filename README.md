@@ -1,4 +1,4 @@
-<h1><img src="https://www.flaticon.com/svg/static/icons/svg/2353/2353678.svg" width="50px"> UNPLUG-THE-PLAYER <img src="https://www.flaticon.com/svg/static/icons/svg/3588/3588392.svg" width="50px"></h1>
+<h1><img src="https://www.flaticon.com/svg/static/icons/svg/2353/2353678.svg" width="50px"> UNPLUG-THE-PLAYERS <img src="https://www.flaticon.com/svg/static/icons/svg/3588/3588392.svg" width="50px"></h1>
 
 _ongoing Project_
 
@@ -7,8 +7,8 @@ _ongoing Project_
    ![](https://img.shields.io/badge/build-flask1.1.1-blue?style=flat-circle&logo=flask&logoColor=white)
    ![](https://img.shields.io/github/issues-pr-closed/shsarv/UNPLUG-THE-PLAYER?style=flat-circle)
    ![](https://img.shields.io/github/issues-pr/shsarv/UNPLUG-THE-PLAYER?style=flat-circle)
-   ![](https://img.shields.io/github/issues-raw/shsarv/UNPLUG-THE-PLAYER?color=66ff66)
-   [![](http://hits.dwyl.com/shsarv/UNPLUG-THE-PLAYER.svg)](http://hits.dwyl.com/shsarv/UNPLUG-THE-PLAYER)
+ <!--  ![](https://img.shields.io/github/issues-raw/shsarv/UNPLUG-THE-PLAYER?color=66ff66)
+   [![](http://hits.dwyl.com/shsarv/UNPLUG-THE-PLAYER.svg)](http://hits.dwyl.com/shsarv/UNPLUG-THE-PLAYER) --->
    
    
    <br>
@@ -88,7 +88,7 @@ For better understanding, flow of the project is as follows:
     
 if user unable to choose the right player, window gives alert.
 
-    The main.py compares the dataset every time it executes. 
+    The app.py compares the dataset every time it executes. 
   
 
 ### Contributors <img src="https://www.flaticon.com/svg/static/icons/svg/1534/1534938.svg" width="24px">
@@ -98,7 +98,7 @@ if user unable to choose the right player, window gives alert.
     <td align="center"><a href="https://github.com/shsarv"><img src="https://avatars2.githubusercontent.com/u/55739302?s=400&u=1e7714cb1cbe3437a527a877486c94611f0e7ab0&v=4" width="100px;" alt=""/><br /><sub><b>Sarvesh Kumar Sharma</b></sub></a><br /><a href="#" title="Content">🖋</a> <a href="https://github.com/shsarv/UNPLUG-THE-PLAYER/commits?author=shsarv" title="Documentation">📖</a><a href="https://github.com/shsarv/UNPLUG-THE-PLAYER/commits?author=shsarv" title="Code">💻</a></td>
    <td align="center"><a href="https://github.com/satyamjha1710"><img src="https://avatars1.githubusercontent.com/u/61418608?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Satyam Kumar jha</b></sub></a><br /><a href="https://github.com/shsarv/UNPLUG-THE-PLAYER/commits?author=satyamjha1710" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/sachi42"><img src="https://media-exp1.licdn.com/dms/image/C5603AQGLYgAuch85sQ/profile-displayphoto-shrink_400_400/0?e=1608163200&v=beta&t=owDq8APH_6iVYtu1g4i3pdEis3vKN6EcfOqMoc-TpXk" width="100px;" alt=""/><br /><sub><b>Sachi Tripathi</b></sub></a><br /><a href="https://github.com/shsarv/UNPLUG-THE-PLAYER/commits?author=sachi42" title="Code">💻</a></td>
-    <td align="center"><a href=https://github.com/jeeveshgangw"><img src="https://media-exp1.licdn.com/dms/image/C5103AQELSMJj73lX6A/profile-displayphoto-shrink_400_400/0?e=1608163200&v=beta&t=UUR4lT_W1fA0OXz-_Pw2dwD4czAkB9pXgh7IHu30g4g" width="100px;" alt=""/><br /><sub><b>Jeevesh Gangwar</b></sub></a><br /><a href="https://github.com/shsarv/UNPLUG-THE-PLAYER/commits?author=jeeveshgangw" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/jeeveshgangw"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQFZS3bFwLuwNw/profile-displayphoto-shrink_400_400/0?e=1611187200&v=beta&t=16bDifivjMfnvr9Dp74R68mCYFwzHnm7PaLTNzexts4" width="100px;" alt=""/><br /><sub><b>Jeevesh Gangwar</b></sub></a><br /><a href="https://github.com/shsarv/UNPLUG-THE-PLAYER/commits?author=jeeveshgangw" title="Code">💻</a></td>
      <td align="center"><a href="https://github.com/ashu-tripathi"><img src="https://avatars3.githubusercontent.com/u/54040025?s=460&u=9969e2722257bb7dda216d5d086e0c51670e34f4&v=4" width="100px;" alt=""/><br /><sub><b>Ashutosh Tripathi</b></sub></a><br /><a href="https://github.com/shsarv/UNPLUG-THE-PLAYER/commits?author=ashu-tripathi" title="Code">💻</a></td>
    
    <tr>
@@ -108,7 +108,6 @@ if user unable to choose the right player, window gives alert.
 
 **MIT License**
 
-### Scope <img src="https://www.flaticon.com/svg/static/icons/svg/1014/1014962.svg" width="24px">
-
-This project can be transferred as a major project by including more features like general knowledge, field description , type of events, teams and many more and finally giving a complete virtual feel of football to the player which allows game player to play games in different domains and other sports.
+<!-- ### Scope <img src="https://www.flaticon.com/svg/static/icons/svg/1014/1014962.svg" width="24px">
+This project can be transferred as a major project by including more features like general knowledge, field description , type of events, teams and many more and finally giving a complete virtual feel of football to the player which allows game player to play games in different domains and other sports. -->
 
