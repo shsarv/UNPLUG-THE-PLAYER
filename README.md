@@ -7,8 +7,8 @@ _ongoing Project_
    ![](https://img.shields.io/badge/build-flask1.1.1-blue?style=flat-circle&logo=flask&logoColor=white)
    ![](https://img.shields.io/github/issues-pr-closed/shsarv/UNPLUG-THE-PLAYER?style=flat-circle)
    ![](https://img.shields.io/github/issues-pr/shsarv/UNPLUG-THE-PLAYER?style=flat-circle)
-   ![](https://img.shields.io/github/issues-raw/shsarv/UNPLUG-THE-PLAYER?color=66ff66)
-   [![](http://hits.dwyl.com/shsarv/UNPLUG-THE-PLAYER.svg)](http://hits.dwyl.com/shsarv/UNPLUG-THE-PLAYER)
+ <!--  ![](https://img.shields.io/github/issues-raw/shsarv/UNPLUG-THE-PLAYER?color=66ff66)
+   [![](http://hits.dwyl.com/shsarv/UNPLUG-THE-PLAYER.svg)](http://hits.dwyl.com/shsarv/UNPLUG-THE-PLAYER) --->
    
    
    <br>
@@ -108,7 +108,6 @@ if user unable to choose the right player, window gives alert.
 
 **MIT License**
 
-### Scope <img src="https://www.flaticon.com/svg/static/icons/svg/1014/1014962.svg" width="24px">
-
-This project can be transferred as a major project by including more features like general knowledge, field description , type of events, teams and many more and finally giving a complete virtual feel of football to the player which allows game player to play games in different domains and other sports.
+<!-- ### Scope <img src="https://www.flaticon.com/svg/static/icons/svg/1014/1014962.svg" width="24px">
+This project can be transferred as a major project by including more features like general knowledge, field description , type of events, teams and many more and finally giving a complete virtual feel of football to the player which allows game player to play games in different domains and other sports. -->
 
