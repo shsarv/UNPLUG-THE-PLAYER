@@ -1,4 +1,4 @@
-<h1><img src="https://www.flaticon.com/svg/static/icons/svg/2353/2353678.svg" width="50px"> UNPLUG-THE-PLAYER <img src="https://www.flaticon.com/svg/static/icons/svg/3588/3588392.svg" width="50px"></h1>
+<h1><img src="https://www.flaticon.com/svg/static/icons/svg/2353/2353678.svg" width="50px"> UNPLUG-THE-PLAYERS <img src="https://www.flaticon.com/svg/static/icons/svg/3588/3588392.svg" width="50px"></h1>
 
 _ongoing Project_
 
