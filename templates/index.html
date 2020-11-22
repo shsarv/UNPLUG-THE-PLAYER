@@ -6,107 +6,18 @@
     <title>FOOT BALL GAME</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='main.css') }}/">
     <style>
-        .mi{
-            background-color: rgba(0, 0, 0, 0.7);
-            padding: 2% 10% 2% 10%;
-        }
-        #gotogame {
-                    padding:0.5em 2em;
-                    border:2px solid white;
-                    margin:0 0.3em 0.3em 0;
-                    border-radius:0.12em;
-                    box-sizing: border-box;
-                    text-decoration:none;
-                    font-family:'Roboto',sans-serif;
-                    font-weight:300;
-                    color: white;
-                    background-color: blue;
-                    transition: all 0.2s;
-                    outline: none;
-                    -moz-box-align: center;
-                    text-align: center;
-                    }
-        #gotogame:hover {
-                    background-color: red;
-                    color: white;
-            font-weight: 400;
-            font-size: large;
-
-                    }
-        h1{
-            color: blue;
-            font-weight: bolder;
-            text-align: center;
-            opacity: 1;
-            text-shadow: deeppink 3px 3px 4px ;
-        }
-        h2{
-            color: red;
-            font-weight: bold;
-            text-decoration: #60a3bc dotted ;
-            text-decoration-style: solid;
-        }
-        ul{
-            color: orange;
-        }
-        ol{
-            color: greenyellow;
-        }
-        footer {
-            background-color: rgba(0, 0, 0,0.6);
-            text-align: center;
-            color: white;
-            padding-top: 5px;
-            padding-bottom: 5px;
-        }
-        #ani {
-            text-align: center;
-            color: White;
-            text-transform: uppercase;
-            font-size: 40px;
-            text-shadow: 2px 2px 4px red;
-            animation: bounceIn 2s infinite alternate;
-            font-family: Arial, Helvetica, sans-serif;
-            }
-
-     @keyframes bounceIn {
-      0% {
-        transform: scale(0.1);
-        opacity: 0;
-      }
-
-      60% {
-        transform: scale(1.2);
-        opacity: 1;
-      }
-
-      100% {
-        transform: scale(1);
-      }
-    }
-        #ah{
-            color: white;
-            font-family: Arial, Helvetica, sans-serif;
-            background-color: red;
-            padding: 10px;
-            margin-top: 5px;
-        }
-        #ah:hover{
-            background-color: blue;
-        }
     </style>
 </head>
 
 <body>
     <div class="mi">
-        <div>
+        <div id="nameShow">
             <h1>WELCOME</h1>
             <h1>TO</h1>
             <h1 id="ani">UNPLUG THE PLAYERS</h1>
         </div>
-        <br>
         <div>
-        <h2>Let's understand the rules first: </h2>
+        <h2 id="rule"></h2>
         </div>
         <div>
             <ol type="A">
@@ -137,10 +48,11 @@
 <footer>
     <p>made in &#10084;&#65039; with <b style="color: orange">IN</b><b style="color: white">D</b><b style="color: green">IA</b></p>
     <p>copyright &copy; 2020 &nbsp; </p>
-    <p>Developed by <b style="color: aqua">4S Team</b>
+    <p>Developed by <b style="color: aqua">Sarv and Team</b>
         <br><br><br>
   <a id="ah" href="mailto:shsarv@gmail.com">Contact US</a></p>
 </footer>
         </div>
+<script src="{{ url_for('static', filename='main.js') }}"></script>
 </body>
 </html>

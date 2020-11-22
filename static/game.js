@@ -5,12 +5,14 @@ var hint3 = document.getElementById('third_hint');
 var hint4 = document.getElementById('fourth_hint');
 var hint5 = document.getElementById('fifth_hint');
 
+
 var btn0 = document.getElementById('next_hint0');
 var btn1 = document.getElementById('next_hint1');
 var btn2 = document.getElementById('next_hint2');
 var btn3 = document.getElementById('next_hint3');
 var btn4 = document.getElementById('next_hint4');
 var btn5 = document.getElementById('next_hint5');
+
 
 var card1 = document.getElementById("card"+lst[0]);
 var card2 = document.getElementById("card"+lst[1]);
