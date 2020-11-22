@@ -54,6 +54,27 @@ The entire code has been developed using Python programming language and is host
   7. Now, execute the following command: `flask run` and it will point to the `localhost` server with the port `5000`.
   8. Enter the `IP Address: http://localhost:5000` on a web browser and use the application.
 
+
+
+### 📂 Structure
+
+The directory contains web sub directories and a sub directory for hosting model and other scripts:
+
+1. [app.py](https://github.com/shsarv/UNPLUG-THE-PLAYER/blob/main/app.py) The file which contains all the main backend operations of the website and used to run the flask server locally.
+   
+2. [Procfile](https://github.com/shsarv/UNPLUG-THE-PLAYER/blob/main/Procfile) for setting up heroku.
+
+3. [requirements.txt](https://github.com/shsarv/UNPLUG-THE-PLAYER/blob/main/requirements.txt) contains all the dependencies.
+
+4. [templates](https://github.com/shsarv/UNPLUG-THE-PLAYER/tree/main/templates) contains the html file.
+
+5. [static](https://github.com/shsarv/UNPLUG-THE-PLAYER/tree/main/static) contains the css,javascript files and images.
+
+6. [notebook](https://github.com/shsarv/UNPLUG-THE-PLAYER/tree/main/notebook) contains all the jupyter notebooks and model development.
+
+7. [Resources.rar](https://github.com/shsarv/UNPLUG-THE-PLAYER/blob/main/Resources.rar) contains all the report and other resources in form of compressed file.
+
+
 ### Dependencies <img src="https://www.flaticon.com/svg/static/icons/svg/2621/2621122.svg" width="24px">
 
 The following dependencies can be found in [requirements.txt](https://github.com/shsarv/UNPLUG-THE-PLAYER/blob/main/requirements.txt):
