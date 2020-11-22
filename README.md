@@ -10,7 +10,9 @@
    ![](https://img.shields.io/tokei/lines/github/shsarv/UNPLUG-THE-PLAYER?color=orange&logoColor=blue&style=flat-circle)
 
 
+This project is live at-------> **https://unplug-the-players.herokuapp.com/**
 
+<hr>
 <!--### Overview <img src="https://www.flaticon.com/svg/static/icons/svg/2664/2664064.svg" width="24px">
 In the Country like India, where people are highly interested in cricket. Only few of them interested in other sport like football. Indian people share a lot more knowledge about cricket players but are they equally know about football players ? taking this in mind in this project, the objective is to create a web app functioning as a prediction game in which the gamer has to pick the correct football player based on his different aspects which will be provided during game and they can explore their knowledge in football as well. -->
 
@@ -72,7 +74,7 @@ The directory contains web sub directories and a sub directory for hosting model
 
 6. [notebook](https://github.com/shsarv/UNPLUG-THE-PLAYER/tree/main/notebook) contains all the jupyter notebooks and model development.
 
-7. [Resources.rar](https://github.com/shsarv/UNPLUG-THE-PLAYER/blob/main/Resources.rar) contains all the report and other resources in form of compressed file.
+7. [Resources.zip](https://github.com/shsarv/UNPLUG-THE-PLAYER/blob/main/Resources.zip) contains all the report and other resources in form of compressed file.
 
 
 ### Dependencies <img src="https://www.flaticon.com/svg/static/icons/svg/2621/2621122.svg" width="24px">
