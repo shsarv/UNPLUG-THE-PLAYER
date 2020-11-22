@@ -1,21 +1,14 @@
 <h1><img src="https://www.flaticon.com/svg/static/icons/svg/2353/2353678.svg" width="50px"> UNPLUG-THE-PLAYERS <img src="https://www.flaticon.com/svg/static/icons/svg/3588/3588392.svg" width="50px"></h1>
 
-_ongoing Project_
 
    ![](https://img.shields.io/badge/python-3.6|3.7-FFFC00?style=flat-circle&logo=python&logoColor=309698)
    ![](https://img.shields.io/github/license/shsarv/UNPLUG-THE-PLAYER?style=flat-circle)
    ![](https://img.shields.io/badge/build-flask1.1.1-blue?style=flat-circle&logo=flask&logoColor=white)
    ![](https://img.shields.io/github/issues-pr-closed/shsarv/UNPLUG-THE-PLAYER?style=flat-circle)
    ![](https://img.shields.io/github/issues-pr/shsarv/UNPLUG-THE-PLAYER?style=flat-circle)
- <!--  ![](https://img.shields.io/github/issues-raw/shsarv/UNPLUG-THE-PLAYER?color=66ff66)
-   [![](http://hits.dwyl.com/shsarv/UNPLUG-THE-PLAYER.svg)](http://hits.dwyl.com/shsarv/UNPLUG-THE-PLAYER) --->
-   
-   
-   <br>
-   
-   ![](https://img.shields.io/github/repo-size/shsarv/UNPLUG-THE-PLAYER?color=e02c73&style=flat-square)
-   ![](https://img.shields.io/tokei/lines/github/shsarv/UNPLUG-THE-PLAYER?color=orange&logoColor=blue&style=flat-square)
-    ![](https://img.shields.io/github/languages/top/shsarv/UNPLUG-THE-PLAYER?color=blueviolet&style=flat-square)
+   ![](https://img.shields.io/github/repo-size/shsarv/UNPLUG-THE-PLAYER?color=e02c73&style=flat-circle)
+   ![](https://img.shields.io/tokei/lines/github/shsarv/UNPLUG-THE-PLAYER?color=orange&logoColor=blue&style=flat-circle)
+
 
 
 <!--### Overview <img src="https://www.flaticon.com/svg/static/icons/svg/2664/2664064.svg" width="24px">
@@ -29,8 +22,8 @@ The main objective of the project is to create a web application game which allo
 
 - Data Collection.
 - Data Preprocessing
-- Developing function using python and JavaScript.
-- Creating web pages & connecting function to web page.
+- Developing Cosine Similarty function.
+- Creating web pages.
 - Deployment.
 
 ### Technologies to be Used
@@ -52,7 +45,7 @@ The entire code has been developed using Python programming language and is host
 ### How to run the project 🚀:
 
   1. Open the `Terminal`.
-  2. Clone the repository by entering `$ git clone https://github.com/shsarv/UNPLUG-THE_PLAYER.git`.
+  2. Clone the repository by entering `$ git clone https://github.com/shsarv/UNPLUG-THE-PLAYER.git `.
   3. Ensure that `Python3` and `pip` are installed on the system.
   4. change the diectory to repository name using  `$ cd [Repository name]`.
   4. Create a `virtualenv` by executing the following command: `virtualenv mygame`.
@@ -91,6 +84,11 @@ if user unable to choose the right player, window gives alert.
     The app.py compares the dataset every time it executes. 
   
 
+
+### License 
+**MIT License**
+
+
 ### Contributors <img src="https://www.flaticon.com/svg/static/icons/svg/1534/1534938.svg" width="24px">
 
 <table>
@@ -104,9 +102,6 @@ if user unable to choose the right player, window gives alert.
    <tr>
     <table>
 
-### License <img src="https://www.flaticon.com/svg/static/icons/svg/1728/1728431.svg" width="24px">
-
-**MIT License**
 
 <!-- ### Scope <img src="https://www.flaticon.com/svg/static/icons/svg/1014/1014962.svg" width="24px">
 This project can be transferred as a major project by including more features like general knowledge, field description , type of events, teams and many more and finally giving a complete virtual feel of football to the player which allows game player to play games in different domains and other sports. -->
